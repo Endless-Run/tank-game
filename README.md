@@ -1,19 +1,14 @@
 # The Tank Game
 
-### Abstract
-As the part of our project work for the first year, we have come with the development of the “The Tank Game” which is a multiplayer arcade game. 
+### Introduction
+As the part of our project work for unit ENGG 102 Engineering Project (March - June 2010), we have come with the development of the “The Tank Game” which is a multiplayer arcade game. 
 
+### Gameplay
 This game draws its concept from Nintendo’s classic console arcade game “BATTLE CITY” developed in 1980. Our game has an option of playing with two of four players. Each pair of playersforms a team and has a seal. Objective of each team is to protect their seal, in the mean time destroy opponent seal. A level is won by a particular team which is able to destroy its opponent seal. There are altogether 13 different levels to play each with a new stage setup. Other main feature of the game include joysticks enabled game play, computer controlled enemies, sound effect, hall of fame, delightful graphics and score board. 
 
+### Technology
 Game is completely coded using the C programming language, using an Integrated Development Environment BloodShedDevCpp 4.9.9.1.The game makes extensive use of third party game development library Simple Direct Media Layer(SDL). This package provides us with the features to import user designed graphics into the game, add sounds and joysticks, enable window based playing and provides us with special functions, variable and constants to handle game play. Over all, it is an interesting multiplayer game and meets the requirements of most users.
 
-### Acknowledgement
-It is to acknowledge and show appreciation to staff members of Department of Computer Science and Engineering who have facilitated us complete this project:
-* Assistant Professor Manoj Shakya
-* Assistant Professor Niraj Shrestha
-* Mr. Pankaj Raj Dawadi
-* Mr. Sangeet Dahal
-* Mr. Prajwol Rupakheti
 
 ###  Key Controls
 
@@ -28,12 +23,23 @@ It is to acknowledge and show appreciation to staff members of Department of Com
 | 7.    | Resume Game   | R                   |R                    | R                  | R                   |
 | 8.    | Pause/ Resume  sound  | 1           |1                    | 1                  | 1                   |
 
+
+### Acknowledgement
+It is to acknowledge and show appreciation to staff members of Department of Computer Science and Engineering who have facilitated us complete this project:
+* Assistant Professor Manoj Shakya
+* Assistant Professor Niraj Shrestha
+* Mr. Pankaj Raj Dawadi
+* Mr. Sangeet Dahal
+* Mr. Prajwol Rupakheti
+
+
 ### Team members and collaborations:
 * Sandip Sahani
 * Iksha Gurung
 * Brishuti Siku
 * Nitish Dhaubadel
 * Pranay Pardhananga
+
 
 ####Works cited:
 
@@ -46,3 +52,8 @@ It is to acknowledge and show appreciation to staff members of Department of Com
 7.	https://www.sdltutorials.com
 8.	https://www.lazyfoo.com
 
+
+Department of Computer Science and Engineering <br/>
+School of Engineering <br/>
+Kathmandu University <br/>
+Kathmandu, Nepal <br/>
