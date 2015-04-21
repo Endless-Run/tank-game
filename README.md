@@ -7,6 +7,8 @@ As the part of our project work for unit ENGG 102 Engineering Project (March - J
 This game draws its concept from Nintendo’s classic console arcade game “BATTLE CITY” developed in 1980. Our game has an option of playing with two of four players. Each pair of playersforms a team and has a seal. Objective of each team is to protect their seal, in the mean time destroy opponent seal. A level is won by a particular team which is able to destroy its opponent seal. There are altogether 13 different levels to play each with a new stage setup. Other main feature of the game include joysticks enabled game play, computer controlled enemies, sound effect, hall of fame, delightful graphics and score board. 
 
 
+There is a sample Tank video file to give a quick look at game play.
+
 #### Software Requirements:
 * Microsoft Windows Operating System ( XP or higher)
 
