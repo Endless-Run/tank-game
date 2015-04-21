@@ -6,6 +6,19 @@ As the part of our project work for unit ENGG 102 Engineering Project (March - J
 ### Gameplay
 This game draws its concept from Nintendo’s classic console arcade game “BATTLE CITY” developed in 1980. Our game has an option of playing with two of four players. Each pair of playersforms a team and has a seal. Objective of each team is to protect their seal, in the mean time destroy opponent seal. A level is won by a particular team which is able to destroy its opponent seal. There are altogether 13 different levels to play each with a new stage setup. Other main feature of the game include joysticks enabled game play, computer controlled enemies, sound effect, hall of fame, delightful graphics and score board. 
 
+
+#### Software Requirements:
+* Microsoft Windows Operating System ( XP or higher)
+
+#### Hardware Requirement
+ * Physical Memory(RAM) 512 MB minimum
+ * Virtual memory double the amount of RAM 
+ * Processor 1.8 GHz minimum
+ * Video adapter 256 colors
+
+#### Problem Specific Requirements:
+•	SDL Library environment
+
 ### Technology
 Game is completely coded using the C programming language, using an Integrated Development Environment BloodShedDevCpp 4.9.9.1.The game makes extensive use of third party game development library Simple Direct Media Layer(SDL). This package provides us with the features to import user designed graphics into the game, add sounds and joysticks, enable window based playing and provides us with special functions, variable and constants to handle game play. Over all, it is an interesting multiplayer game and meets the requirements of most users.
 
